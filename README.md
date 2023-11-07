@@ -1,2 +1,2 @@
 #Notas
-Este es el repositorio de nuestro proyecto...
+Este es el repositorio de pruebas
